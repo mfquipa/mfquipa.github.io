@@ -531,8 +531,8 @@ footer h1 {
     line-height: 50px;
     padding: 0px 10px 10px 28px;
   }
-  .footer .social:hover {
-    color: #00f3bb;
+  .fab:hover {
+   color: rgb(9, 250, 210);
   }
 
   footer div.footer {
